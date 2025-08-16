@@ -1,0 +1,1 @@
+this is an application for random choice picker , basically you give it some choices divid them by comma (or something else I might make up for) and then it just picks the choice for you randomly , that is the whole point of it.
