@@ -38,7 +38,7 @@ textarea{
 
 }
 /* we will use this class  in js */
-.tag.changecolor{
+.changecolor{
     background-color: #293497;
 }
 
