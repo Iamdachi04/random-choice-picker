@@ -11,6 +11,8 @@ body{
 
 h3{
     color: white;
+    text-align: center;
+    margin: 10px 0 20px;
 }
 
 .container{
@@ -39,3 +41,5 @@ textarea{
 .tag.changecolor{
     background-color: #293497;
 }
+
+
